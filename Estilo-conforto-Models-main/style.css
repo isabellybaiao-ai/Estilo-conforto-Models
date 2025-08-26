@@ -1,0 +1,12 @@
+:root{
+--amarelo: #fbba72ff;
+--laranja: #ca5310ff;
+--laranja-queimado: #bb4d00ff;
+--marrom: #8f250cff;
+--vermelho-forte: #691e06ff;
+
+}
+body{
+background-color:var(--marrom);
+
+}
