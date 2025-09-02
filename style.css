@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Oswald:wght@200..700&display=swap');
+
+:root{
+--amarelo: #fbba72ff;
+--laranja: #ca5310ff;
+--laranja-queimado: #bb4d00ff;
+--marrom: #8f250cff;
+--vermelho-forte: #691e06ff;
+--texto: "Oswald", sans-serif;
+--título:  "Archivo Black", sans-serif;
+}
+body{
+background-color:var(--marrom);
+font-family: var(--texto);
+
+}
