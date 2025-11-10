@@ -1,10 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Oswald:wght@200..700&display=swap');
 
-body{
-background-color:var(--marrom);
-font-family: var(--texto);
-
-}
 :root{
  --amarelo: #fbba72ff;
 --laranja: #ca5310ff;
