@@ -130,7 +130,7 @@ footer{
 .produtos h2{
     font-family: var(--olá);
     font-size: 40px;
-    color: var(--laranja-queimado);
+    color: var(--preto);
     margin: 40px 0;
 }
 
@@ -160,7 +160,7 @@ footer{
 }
 .produto p{
     font-family: var(--texto);
-    color: var(--laranja);
+    color: var(--vermelho-forte);
     font-size: 18px;
     font-style: normal;
 }
@@ -168,7 +168,7 @@ footer{
     padding: 10px 24px;
     font-size: 16px;
     font-family: var(--titulo);
-    background-color: var(--marrom);
+    background-color: var(--amarelo);
     color: var(--branco);
     border: none;
     border-radius: 12px;
